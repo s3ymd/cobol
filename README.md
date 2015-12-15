@@ -7,6 +7,10 @@ brew cask install emacs
 
 file extension: .cob or .cbl
 
+# Emacs cobol mode
+
+https://gist.githubusercontent.com/Edward-H/6768e7dc53ea3dd2adca/raw/45eb9a7aeed9eef6c04a7ae42ff1bd5007bdd3d0/cobol-mode.el
+
 # Compile & run
 
 ```bash
